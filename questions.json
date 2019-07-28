@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "question": { "text": "Which animal can produce the loudest sound?" },
+      "answers": [
+        { "text": "🐯 Tiger", "votes": 18 },
+        { "text": "🐻 Bear", "votes": 11 },
+        { "text": "🐋 Blue Whale", "votes": 37 },
+        { "text": "🐷 Pig", "votes": 8 }
+      ]
+    },
+    {
+      "question": { "text": "Which animal is tallest?" },
+      "answers": [
+        { "text": "🐊 Crocodile", "votes": 4 },
+        { "text": "🐋 Whale", "votes": 92 },
+        { "text": "🦒 Giraffe", "votes": 48 },
+        { "text": "🦕 Sauropod", "votes": 109 }
+      ]
+    },
+    {
+      "question": { "text": "Which of these animal are real?" },
+      "answers": [
+        { "text": "🦄 Unicorn", "votes": 30 },
+        { "text": "🐲 Dragon", "votes": 50 },
+        { "text": "🧚 Fairy", "votes": 3 },
+        { "text": "🦆 Duck", "votes": 80 }
+      ]
+    }
+  ]
+}
